@@ -1,0 +1,12 @@
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\PhotoAlbum.exe.config
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\PhotoAlbum.exe
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\PhotoAlbum.pdb
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\Newtonsoft.Json.dll
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\Newtonsoft.Json.xml
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\obj\Release\PhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\obj\Release\PhotoAlbum.exe
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\obj\Release\PhotoAlbum.pdb
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\PhotoAlbum.exe.manifest
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\bin\Release\PhotoAlbum.application
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\obj\Release\PhotoAlbum.exe.manifest
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbum\obj\Release\PhotoAlbum.application

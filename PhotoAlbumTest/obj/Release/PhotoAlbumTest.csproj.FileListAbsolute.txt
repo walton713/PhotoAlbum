@@ -1,0 +1,11 @@
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\PhotoAlbumTest.dll
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\PhotoAlbumTest.pdb
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\PhotoAlbum.exe
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\PhotoAlbum.pdb
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\obj\Release\PhotoAlbumTest.csprojResolveAssemblyReference.cache
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\obj\Release\PhotoAlbumTest.dll
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\obj\Release\PhotoAlbumTest.pdb
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\walto\Documents\PhotoAlbum\PhotoAlbumTest\bin\Release\Newtonsoft.Json.xml
